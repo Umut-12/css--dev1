@@ -1,0 +1,48 @@
+.mg {
+    color: #000;
+    margin-left:35em; ;
+}
+.menü {
+    width: 800px;
+    height: 50px;
+    background: aquamarine  ;
+    border-radius: 4px;
+    display: table;
+    padding: 0;
+    margin: 50px auto;
+}
+.menü  li {
+    display: table-cell;
+    font-size: 18px;
+    vertical-align: middle;
+    font-family: Calibri;
+    text-align: center;
+    list-style: none;
+    cursor: pointer;
+    
+}
+.menü li:hover {
+    background: #e3e3e3;
+    color: #000;
+}
+.resim  {
+    width: 80px;
+    height: 50px;
+   
+    border-radius: 4px;
+    display: table;
+    padding: 0;
+    margin: 50px auto;
+} 
+.resim li {
+    display: table-cell;
+    font-size: 18px;
+    vertical-align: middle;
+    font-family: Calibri;
+    text-align: center;
+    list-style: none;
+    cursor: pointer;
+}
+.resim li img {
+    margin-right: 100px;  width: 350px; height: 250px;
+}
